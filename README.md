@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @therahulkanna05
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+                            height="50"
+                            width="50">, I'm Rahul Kanna
+  </h1>
+
 - 👀 I’m interested in exploring new fields/domains.
 - 😍 I'm love to work in the fields of web dev, machine learning and blockchain. 
 - 🌱 I’m currently learning React JS.
